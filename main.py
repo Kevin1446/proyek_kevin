@@ -1,5 +1,5 @@
 import sys
-from login import login
+
 
 Daftar_menu = {
     1:"BAKSO RUDAL",
