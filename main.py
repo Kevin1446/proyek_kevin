@@ -24,7 +24,7 @@ daftar_metode_pembayaran = {
     3:"TRANSFER"
 }
 
-print(login())
+
 
 print("=====================SELAMAT DATANG DI ANGEL SHOP BAKSO DAN MIE AYAM============")
 print("======================================List Product==============================")
